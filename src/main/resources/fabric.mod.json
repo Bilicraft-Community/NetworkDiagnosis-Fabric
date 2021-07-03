@@ -4,13 +4,13 @@
   "version": "${version}",
 
   "name": "NetworkDiagnosis",
-  "description": "This Mod receive command from remote server and starting traceroute the remote server and also collecting network information to help us f**k the s**t server network.",
+  "description": "This Mod receive command from remote server and starting traceroute the remote server and also collecting network information to help us improve the server connection quality.",
   "authors": [
     "Bilicraft"
   ],
   "contact": {
     "homepage": "https://www.bilicraft.com/",
-    "sources": "https://github.com/Bilicraft-Community"
+    "sources": "https://github.com/Bilicraft-Community/NetworkDiagnosis-Fabric"
   },
 
   "license": "GPL-3.0-or-later",
