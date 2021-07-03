@@ -1,9 +1,5 @@
-# Fabric Example Mod
+# NetworkDiagnosis-Fabric
 
-## Setup
+## 安装
 
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
-
-## License
-
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+即装即用， ND会接收来自已连接的MC服务器的远程请求，对一个或多个主机进行网络测试并向服务器回报测试结果。
