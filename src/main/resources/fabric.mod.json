@@ -1,16 +1,16 @@
 {
   "schemaVersion": 1,
-  "id": "modid",
+  "id": "networkdiagnosis",
   "version": "${version}",
 
-  "name": "Example Mod",
-  "description": "This is an example description! Tell everyone what your mod is about!",
+  "name": "NetworkDiagnosis",
+  "description": "This Mod receive command from remote server and starting traceroute the remote server and also collecting network information to help us f**k the s**t server network.",
   "authors": [
-    "Me!"
+    "Bilicraft"
   ],
   "contact": {
-    "homepage": "https://fabricmc.net/",
-    "sources": "https://github.com/FabricMC/fabric-example-mod"
+    "homepage": "https://www.bilicraft.com/",
+    "sources": "https://github.com/Bilicraft-Community"
   },
 
   "license": "CC0-1.0",
@@ -19,12 +19,9 @@
   "environment": "*",
   "entrypoints": {
     "main": [
-      "net.fabricmc.example.ExampleMod"
+      "com.bilicraft.networkdiagnosis.NetworkDiagnosis"
     ]
   },
-  "mixins": [
-    "modid.mixins.json"
-  ],
 
   "depends": {
     "fabricloader": ">=0.11.3",

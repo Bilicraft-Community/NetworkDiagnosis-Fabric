@@ -6,7 +6,7 @@
   "mixins": [
   ],
   "client": [
-    "ExampleMixin"
+    "com.bilicraft.networkdiagnosis.mixin.ExampleMixin"
   ],
   "injectors": {
     "defaultRequire": 1
